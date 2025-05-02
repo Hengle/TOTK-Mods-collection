@@ -6,9 +6,9 @@
 
 ### <p align=center>This is now a Public Archive.</p>
 <p align="center">
-  <a href="https://ko-fi.com/maxlastbreath">Early Access Versions are still being released for TOTK.</a><br>
-  The Official Source for NX Optimizer/TOTK Optimizer is at <a href="https://www.nxoptimizer.com/">Official Website</a>.<br>
-  If you want to keep up with Updates, check the <a href="https://github.com/MaxLastBreath/nx-optimizer">Official GitHub</a>.<br>
-  If you need Help we also have an <a href="https://www.nxoptimizer.com/discord">Official Discord</a>.<br><br>
-  Project Created and Maintained by <strong>MaxLastBreath</strong>.
+###   <a href="https://ko-fi.com/maxlastbreath">Early Access Versions are still being released for TOTK.</a><br>
+      The Official Source for NX Optimizer/TOTK Optimizer is at <a href="https://www.nxoptimizer.com/">Official Website</a>.<br>
+      If you want to keep up with Updates, check the <a href="https://github.com/MaxLastBreath/nx-optimizer">Official GitHub</a>.<br>
+      If you need Help we also have an <a href="https://www.nxoptimizer.com/discord">Official Discord</a>.<br><br>
+      Project Created and Maintained by <strong>MaxLastBreath</strong>.
 </p>
