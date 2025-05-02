@@ -6,8 +6,6 @@
 
 ### <p align=center>This is now a Public Archive.</p>
 
-### <p align=center> [Official Website](https://www.nxoptimizer.com/) - [Setup-Guide](https://www.nxoptimizer.com/guides/setup-guide/)</p> <p align=center> [Early Access](https://www.nxoptimizer.com/ko-fi/) </p> <p align=center> [List of Games](https://www.nxoptimizer.com/games/) </p>
-
 <p align="center">
       <strong><a href="https://ko-fi.com/maxlastbreath">Early Access Versions are still being released for TOTK.</a><br></strong>
       The Official Source for NX Optimizer/TOTK Optimizer is at <a href="https://www.nxoptimizer.com/">Official Website</a>.<br>
